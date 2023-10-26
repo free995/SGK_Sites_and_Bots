@@ -32,7 +32,7 @@
 
 🔍可查询：支持猎魔模糊查询
 
-地址: [@AJL_SGK](https://t.me/AJL01_bot)
+地址: [@AJL_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
 
 备注：不强制要求推广后才能使用，每日签到可获取积分。
 
